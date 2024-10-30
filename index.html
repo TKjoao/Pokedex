@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex API</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pokedex</h1>
+        <div class="input-container">
+            <input type="text" id="pokemonName" placeholder="Digite o nome do Pokemon"/>
+            <button class="button" onclick="searchPokemon()">Buscar</button>
+            <button class="button" onclick="getRandomPokemon()">Aleatório</button>
+        </div>
+
+        <div class="pokemon-container" id="pokemonContainer">
+            <h2 id="pokemonNameDisplay"></h2>
+            <img id="pokemonImage" src="" alt="Imagem do pokemon">
+            <p id="pokemonInfo"></p>
+        </div>
+
+        <div class="navigation-buttons">
+            <button class="nav-button" onclick="previousPokemon()">Anterior</button>
+            <button class="nav-button" onclick="nextPokemon()">Próximo</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
