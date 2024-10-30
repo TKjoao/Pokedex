@@ -23,6 +23,6 @@ Este projeto é uma Pokedex interativa que utiliza a API pública da [PokeAPI](h
  Instalação
 1. Clone este repositório:
    ```bash
-      cd [TKjoao/Pokedex](https://github.com/TKjoao/Pokedex)](https://github.com/TKjoao/Pokedex/blob/main
+      https://github.com/TKjoao/Pokedex/blob/main
 
 
