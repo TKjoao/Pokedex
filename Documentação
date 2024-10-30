@@ -1,0 +1,15 @@
+Uso:
+Abra o arquivo index.html em seu navegador.
+Insira o nome de um Pokémon no campo de busca ou utilize os botões para navegar.
+
+Estrutura do Projeto:
+index.html: Estrutura principal do HTML.
+style.css: Estilos visuais da aplicação.
+script.js: Lógica JavaScript que conecta a PokeAPI ao projeto.
+
+Contribuição
+Faça um fork do projeto.
+Crie uma nova branch (git checkout -b feature/NomeDaFeature).
+Faça commit das suas alterações (git commit -m 'Adiciona nova feature').
+Envie para a branch (git push origin feature/NomeDaFeature).
+Abra um Pull Request.
